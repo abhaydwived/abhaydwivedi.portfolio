@@ -174,7 +174,7 @@ export function Journey(): null {
                         {
                             city: 'Karnataka',
                             company: 'Upcoming Opportunities',
-                            period: 'Future',
+                            period: '2025',
                             role: 'ML Engineer'
                         }
                     ]
