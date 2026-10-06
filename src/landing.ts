@@ -488,7 +488,7 @@ export function initLandingPage() {
                         city: 'Karnataka',
                         company: 'Upcoming Opportunities',
                         period: 'Future',
-                        role: 'ML Engineer'
+                        role: 'Robotics Researcher'
                     }
                 ]
             }
